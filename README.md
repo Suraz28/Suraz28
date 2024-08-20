@@ -1,6 +1,6 @@
 👋 Hi, I'm Suraz
 
-👨‍💻 I'm a self-taught frontend developer sharing my journey and learnings in tech.<br/>
+👨‍💻 I'm a frontend developer sharing my journey and learnings in tech.<br/>
 🎓 Studying [Information Technology](https://cct.tu.edu.np/courses/188) at Birendra Multiple Campus, Nepal.<br/>
 🌱 Always exploring new technologies and improving my skills.<br/>
 👯 I’m looking to collaborate on Open source projects and innovative web applications.<br/>
