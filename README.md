@@ -1,4 +1,4 @@
-👋 Hi, I'm Suraz
+👋 Hi, I'm Suraj
 
 👨‍💻 I'm a web developer sharing my journey and learnings in tech.<br/>
 🎓 Education: [Information Technology](https://cct.tu.edu.np/courses/188) in Nepal.<br/>
