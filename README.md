@@ -1,7 +1,7 @@
 👋 Hi, I'm Suraj
 
 👨‍💻 I'm a web developer sharing my journey and learnings in tech.<br/>
-🎓 Education: [Maasters of Information Technology]([(https://www.utas.edu.au/courses/sci-eng/courses/k7i-master-of-information-technology-and-systems)](https://www.utas.edu.au/courses/sci-eng/courses/k7i-master-of-information-technology-and-systems).<br/>
+🎓 Education: [Masters of Information Technology]([(https://www.utas.edu.au/courses/sci-eng/courses/k7i-master-of-information-technology-and-systems)](https://www.utas.edu.au/courses/sci-eng/courses/k7i-master-of-information-technology-and-systems).<br/>
 🌱 Always exploring new technologies and improving my skills.<br/>
 👯 I’m also looking to collaborate on Open source projects and innovative web applications.<br/>
 💡 Currently exploring [javascript ecosystem](https://www.altexsoft.com/blog/javascript-ecosystem-38-tools-for-front-and-back-end-development/) and new technologies.<br/>
